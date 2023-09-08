@@ -6,4 +6,5 @@ public class Rev_Array {
             System.out.println(arr[i]);
         }
     }
+    
 }

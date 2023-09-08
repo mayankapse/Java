@@ -16,8 +16,10 @@ class Radius{
         circle c1 = new circle(2);
         circle c2 = new circle(12);
         circle c3 = new circle(24);
+        circle c4 = new circle();
         System.out.println("A1= "+c1.getArea());
         System.out.println("A2= "+c2.getArea());
         System.out.println("A3= "+c3.getArea());
+        System.out.println("A4= "+c4.getArea());
     }
 }
